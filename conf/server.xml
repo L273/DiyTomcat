@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Server>
+	<Service name="Catalina">
+		<!-- 多端口的配置 -->
+		<!-- 开启gzip的压缩方式 -->
+		<!-- 最小的压缩尺寸为20 -->
+		<!-- 不用压缩的浏览器:gozilla,traviata -->
+		<!-- 需要压缩的文件类型 -->
+		<Connector port = "18080"
+				   compression = "on"
+				   compressionMinSize = "20"
+				   noCompressionUserAgents = "gozilla,traviata"
+				   compressionMimeType = "text/html,text/xml,text/javascript,application/javascript,text/css,text/plain,text/json"
+				   />
+		<Connector port = "18081"/>
+		<Connector port = "18082"/>
+		
+		
+		<Engine name="localhost">
+			<Host name="localhost">
+				<Context path="/b" docBase="d:/IDEA_Project/DiyTomcat/b"/>
+				
+				<!-- 拿到webapp的目录位置 -->
+				<!-- common加载器会扫描 docBas目录下的WEB-INF中的classes中的全部class -->
+				<!-- 所以相关工程文件要把最后的out文件,或者complie文件,定位到classes目录里 -->
+				<Context path="/javaweb" docBase="D:/project/JavaWeb/web" reloadable="true" />
+				
+			</Host>
+		</Engine>
+	</Service>
+</Server>

@@ -1,0 +1,2803 @@
+"10 15, 2020 01:16:48 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:16:48 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 66 ms
+"10 15, 2020 01:16:48 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:16:48 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:16:48 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:16:48 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 9 ms
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:16:50 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:19:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:19:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 113 ms
+"10 15, 2020 01:19:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:19:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:19:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:19:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:19:44 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:19:45 上午 com.ddd.catalina.Server$1 error
+-5p:/ by zero
+java.lang.ArithmeticException: / by zero
+	at com.ddd.catalina.Server$1.run(Server.java:137)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:19:45 上午 com.ddd.catalina.Server$1 error
+-5p:/ by zero
+java.lang.ArithmeticException: / by zero
+	at com.ddd.catalina.Server$1.run(Server.java:137)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:21:23 上午 com.ddd.catalina.Server$1 error
+-5p:/ by zero
+java.lang.ArithmeticException: / by zero
+	at com.ddd.catalina.Server$1.run(Server.java:137)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:21:23 上午 com.ddd.catalina.Server$1 error
+-5p:/ by zero
+java.lang.ArithmeticException: / by zero
+	at com.ddd.catalina.Server$1.run(Server.java:137)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:21:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:21:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 73 ms
+"10 15, 2020 01:21:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:21:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:21:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:21:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:21:29 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:21:30 上午 com.ddd.catalina.Server$1 error
+-5p:2
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at com.ddd.catalina.Server$1.run(Server.java:142)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:21:30 上午 com.ddd.catalina.Server$1 error
+-5p:2
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at com.ddd.catalina.Server$1.run(Server.java:142)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:21:30 上午 com.ddd.catalina.Server$1 error
+-5p:2
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at com.ddd.catalina.Server$1.run(Server.java:142)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:21:30 上午 com.ddd.catalina.Server$1 error
+-5p:2
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at com.ddd.catalina.Server$1.run(Server.java:142)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:21:49 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:21:49 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 01:21:49 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:21:49 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:21:49 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:21:49 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:21:51 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:21:59 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:21:59 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 74 ms
+"10 15, 2020 01:21:59 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:21:59 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:21:59 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:21:59 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:22:01 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:22:21 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:22:21 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 83 ms
+"10 15, 2020 01:22:21 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:22:21 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:22:21 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:22:21 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:22:23 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:22:23 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 01:22:23 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:22:23 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:22:23 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:22:23 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:22:25 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:22:27 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:22:27 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:22:27 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:22:27 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:28 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:23:28 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 72 ms
+"10 15, 2020 01:23:28 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:23:28 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:23:28 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:23:28 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:30 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:40 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:23:40 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 70 ms
+"10 15, 2020 01:23:40 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:23:40 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:23:40 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:23:40 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:23:42 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:23:47 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:47 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:47 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:47 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:51 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:23:51 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 66 ms
+"10 15, 2020 01:23:51 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:23:51 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:23:51 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:23:51 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:23:53 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:23:54 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:54 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:54 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:23:54 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:25:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:25:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 78 ms
+"10 15, 2020 01:25:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:25:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 1 ms
+"10 15, 2020 01:25:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:25:27 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:25:29 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:25:30 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:25:30 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:25:30 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:25:30 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:25:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:25:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 78 ms
+"10 15, 2020 01:25:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:25:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:25:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:25:42 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:25:44 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:27:36 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:27:36 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 66 ms
+"10 15, 2020 01:27:36 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:27:36 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:27:36 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:27:36 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:27:38 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:28:17 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:28:17 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 01:28:17 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:28:17 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:28:17 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:28:17 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:28:20 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:141)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:28:55 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:28:55 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 66 ms
+"10 15, 2020 01:28:55 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:28:55 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:28:55 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:28:55 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:138)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:28:57 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:138)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 01:30:22 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 01:30:22 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 01:30:22 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 01:30:22 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 01:30:22 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 01:30:22 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 01:30:24 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 10:14:01 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 10:14:01 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 94 ms
+"10 15, 2020 10:14:01 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 10:14:01 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 10:14:01 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 10:14:01 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 10:14:03 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 10:15:12 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 10:15:12 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 10:15:12 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 10:15:12 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 10:15:12 上午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 10:15:12 上午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 10:15:14 上午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 10:15:15 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:142)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 10:15:15 上午 com.ddd.catalina.Server$1 error
+-5p:5
+java.lang.ArrayIndexOutOfBoundsException: 5
+	at com.ddd.catalina.Server$1.run(Server.java:142)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 16:27:52 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:27:52 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 66 ms
+"10 15, 2020 16:27:52 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:27:52 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:27:52 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:27:52 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:27:54 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:33:22 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:33:22 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 76 ms
+"10 15, 2020 16:33:22 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:33:22 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:33:22 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:33:22 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:33:24 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:33:36 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:33:36 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 79 ms
+"10 15, 2020 16:33:36 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:33:36 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:33:36 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:33:36 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:33:38 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:35:31 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:35:31 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 76 ms
+"10 15, 2020 16:35:31 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:35:31 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:35:31 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:35:31 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:35:33 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:38:59 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:38:59 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 81 ms
+"10 15, 2020 16:38:59 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:38:59 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:38:59 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:38:59 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:39:01 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:54:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:54:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 68 ms
+"10 15, 2020 16:54:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:54:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:54:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:54:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:54:18 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:54:30 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:54:30 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 72 ms
+"10 15, 2020 16:54:30 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:54:30 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:54:30 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:54:30 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:54:32 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:55:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:55:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 76 ms
+"10 15, 2020 16:55:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:55:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 1 ms
+"10 15, 2020 16:55:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:55:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:55:08 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:56:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:56:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 68 ms
+"10 15, 2020 16:56:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:56:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:56:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:56:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:56:15 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:56:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:56:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 69 ms
+"10 15, 2020 16:56:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:56:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:56:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:56:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:56:47 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:56:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:56:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 71 ms
+"10 15, 2020 16:56:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:56:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:56:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:56:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 1 ms
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:56:58 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 16:58:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 16:58:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 67 ms
+"10 15, 2020 16:58:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 16:58:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 16:58:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 16:58:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 16:58:07 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 17:00:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 17:00:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 80 ms
+"10 15, 2020 17:00:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 17:00:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 17:00:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 17:00:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 17:00:30 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 20:03:55 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 20:03:55 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 167 ms
+"10 15, 2020 20:03:55 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 20:03:55 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 20:03:55 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 20:03:55 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 20:03:57 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 20:04:18 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 20:04:18 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 71 ms
+"10 15, 2020 20:04:18 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 20:04:18 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 20:04:18 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 20:04:18 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 20:04:20 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 20:05:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 20:05:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 82 ms
+"10 15, 2020 20:05:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 20:05:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 1 ms
+"10 15, 2020 20:05:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 20:05:56 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 20:05:58 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 20:06:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 20:06:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 71 ms
+"10 15, 2020 20:06:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 20:06:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 20:06:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 20:06:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 20:06:23 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 20:07:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 20:07:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 84 ms
+"10 15, 2020 20:07:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 20:07:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 20:07:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 20:07:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 20:07:16 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 20:35:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 20:35:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 101 ms
+"10 15, 2020 20:35:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 20:35:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 20:35:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 20:35:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 1 ms
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 20:35:28 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:19:02 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:19:02 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 21:19:02 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:19:02 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:19:02 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:19:02 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:19:04 下午 com.ddd.catalina.Server start
+-5p:Server startup in 1 ms
+"10 15, 2020 21:22:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:22:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 66 ms
+"10 15, 2020 21:22:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:22:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:22:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:22:06 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:22:08 下午 com.ddd.catalina.Server start
+-5p:Server startup in 1 ms
+"10 15, 2020 21:23:38 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:23:38 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 66 ms
+"10 15, 2020 21:23:38 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:23:38 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:23:38 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:23:38 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:23:40 下午 com.ddd.catalina.Server start
+-5p:Server startup in 8 ms
+"10 15, 2020 21:24:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:24:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 69 ms
+"10 15, 2020 21:24:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:24:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:24:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:24:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:24:15 下午 com.ddd.catalina.Server start
+-5p:Server startup in 1 ms
+"10 15, 2020 21:25:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:25:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 71 ms
+"10 15, 2020 21:25:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:25:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:25:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:25:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 1 ms
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:25:07 下午 com.ddd.catalina.Server start
+-5p:Server startup in 4 ms
+"10 15, 2020 21:27:12 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:27:12 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 21:27:12 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:27:12 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:27:12 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:27:12 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:27:14 下午 com.ddd.catalina.Server start
+-5p:Server startup in 15 ms
+"10 15, 2020 21:45:57 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:45:57 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 64 ms
+"10 15, 2020 21:45:57 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:45:57 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:45:57 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:45:57 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:45:59 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 21:58:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:58:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 94 ms
+"10 15, 2020 21:58:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:58:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:58:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:58:21 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:58:23 下午 com.ddd.catalina.Server start
+-5p:Server startup in 15 ms
+"10 15, 2020 21:58:32 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:58:32 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 81 ms
+"10 15, 2020 21:58:32 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:58:32 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:58:32 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:58:32 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:58:34 下午 com.ddd.catalina.Server start
+-5p:Server startup in 15 ms
+"10 15, 2020 21:59:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 21:59:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 21:59:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 21:59:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 21:59:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 21:59:14 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 21:59:16 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:00:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:00:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 78 ms
+"10 15, 2020 22:00:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:00:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:00:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:00:05 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:00:07 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:00:53 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:00:53 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 22:00:53 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:00:53 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:00:53 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:00:53 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:00:55 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:01:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:01:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 70 ms
+"10 15, 2020 22:01:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:01:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:01:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:01:45 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:01:47 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:01:48 下午 com.ddd.catalina.HttpProcessor error
+-5p:
+java.lang.NullPointerException
+	at com.ddd.webappservlet.HelloServlet.doGet(HelloServlet.java:14)
+	at com.ddd.catalina.HttpProcessor.execute(HttpProcessor.java:67)
+	at com.ddd.catalina.Connector$1.run(Connector.java:75)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 22:08:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:08:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 71 ms
+"10 15, 2020 22:08:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:08:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:08:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:08:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:08:49 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:10:37 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:10:37 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 22:10:37 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:10:37 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:10:37 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:10:37 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:10:39 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:11:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:11:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 22:11:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:11:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:11:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:11:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:11:18 下午 com.ddd.catalina.Server start
+-5p:Server startup in 16 ms
+"10 15, 2020 22:13:27 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:13:27 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 22:13:27 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:13:27 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:13:27 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:13:27 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:13:30 下午 com.ddd.catalina.Server start
+-5p:Server startup in 15 ms
+"10 15, 2020 22:16:03 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:16:03 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 70 ms
+"10 15, 2020 22:16:03 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:16:03 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:16:03 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:16:03 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:16:05 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:16:06 下午 com.ddd.catalina.HttpProcessor error
+-5p:
+java.lang.NullPointerException
+	at com.ddd.catalina.HttpProcessor.handle200(HttpProcessor.java:148)
+	at com.ddd.catalina.HttpProcessor.execute(HttpProcessor.java:68)
+	at com.ddd.catalina.Connector$1.run(Connector.java:75)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 22:16:11 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:16:11 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 95 ms
+"10 15, 2020 22:16:11 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:16:11 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:16:11 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:16:11 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:16:13 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:16:16 下午 com.ddd.catalina.HttpProcessor error
+-5p:
+java.lang.NullPointerException
+	at com.ddd.catalina.HttpProcessor.handle200(HttpProcessor.java:148)
+	at com.ddd.catalina.HttpProcessor.execute(HttpProcessor.java:68)
+	at com.ddd.catalina.Connector$1.run(Connector.java:75)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 22:19:10 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:19:10 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 22:19:10 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:19:10 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:19:10 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:19:10 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:19:12 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:19:14 下午 com.ddd.catalina.HttpProcessor error
+-5p:
+java.lang.NullPointerException
+	at com.ddd.catalina.HttpProcessor.handle200(HttpProcessor.java:149)
+	at com.ddd.catalina.HttpProcessor.execute(HttpProcessor.java:69)
+	at com.ddd.catalina.Connector$1.run(Connector.java:75)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 22:19:48 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:19:48 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 22:19:48 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:19:48 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:19:48 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:19:48 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:19:50 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:19:53 下午 com.ddd.catalina.HttpProcessor error
+-5p:
+java.lang.NullPointerException
+	at com.ddd.catalina.HttpProcessor.handle200(HttpProcessor.java:149)
+	at com.ddd.catalina.HttpProcessor.execute(HttpProcessor.java:69)
+	at com.ddd.catalina.Connector$1.run(Connector.java:75)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 22:20:25 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:20:25 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 22:20:25 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:20:25 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:20:25 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:20:25 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:20:27 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:20:30 下午 com.ddd.catalina.HttpProcessor error
+-5p:Socket is closed
+java.net.SocketException: Socket is closed
+	at java.net.Socket.getOutputStream(Socket.java:943)
+	at com.ddd.catalina.HttpProcessor.handle404(HttpProcessor.java:171)
+	at com.ddd.catalina.HttpProcessor.execute(HttpProcessor.java:111)
+	at com.ddd.catalina.Connector$1.run(Connector.java:75)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 22:20:34 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:20:34 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 94 ms
+"10 15, 2020 22:20:34 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:20:34 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:20:34 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:20:34 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:20:36 下午 com.ddd.catalina.HttpProcessor error
+-5p:Socket is closed
+java.net.SocketException: Socket is closed
+	at java.net.Socket.getOutputStream(Socket.java:943)
+	at com.ddd.catalina.HttpProcessor.handle404(HttpProcessor.java:171)
+	at com.ddd.catalina.HttpProcessor.execute(HttpProcessor.java:111)
+	at com.ddd.catalina.Connector$1.run(Connector.java:75)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+"10 15, 2020 22:21:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:21:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 22:21:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:21:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:21:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:21:16 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:21:18 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:28:39 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:28:39 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 22:28:39 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:28:39 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:28:39 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:28:39 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:28:41 下午 com.ddd.catalina.Server start
+-5p:Server startup in 16 ms
+"10 15, 2020 22:28:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:28:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 79 ms
+"10 15, 2020 22:28:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:28:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:28:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:28:47 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:28:49 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:30:20 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:30:20 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 22:30:20 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:30:20 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:30:20 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:30:20 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:30:22 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:31:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:31:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 76 ms
+"10 15, 2020 22:31:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:31:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:31:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:31:13 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:31:15 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:32:50 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:32:50 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 63 ms
+"10 15, 2020 22:32:50 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:32:50 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:32:50 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:32:50 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:32:52 下午 com.ddd.catalina.Server start
+-5p:Server startup in 15 ms
+"10 15, 2020 22:33:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:33:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 22:33:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:33:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:33:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:33:28 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:33:30 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
+"10 15, 2020 22:34:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\a
+"10 15, 2020 22:34:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\a has finished in 62 ms
+"10 15, 2020 22:34:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT
+"10 15, 2020 22:34:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory D:\IDEA_Project\DiyTomcat\webapps\ROOT has finished in 0 ms
+"10 15, 2020 22:34:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying web application directory d:/IDEA_Project/DiyTomcat/b
+"10 15, 2020 22:34:26 下午 com.ddd.catalina.Context <init>
+-5p:Deploying of web application directory d:/IDEA_Project/DiyTomcat/b has finished in 0 ms
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:Server version:		How2J DiyTomcat/1.0.1
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:Server built:		2020-04-08 10:20:22
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:Server number:		1.0.1
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:OS Name	:		Windows 10
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:OS Version:		10.0
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:Architecture:		x86
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:Java Home:		D:\JavaEE\Java\jre
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Version:		1.8.0_65-b17
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server logJVM
+-5p:JVM Vendor:		Oracle Corporation
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Connector init
+-5p:Initializing ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Service init
+-5p:Initialization processed in 0 ms
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18080]
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18081]
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Connector start
+-5p:Starting ProtocolHandler [http-bio-18082]
+"10 15, 2020 22:34:29 下午 com.ddd.catalina.Server start
+-5p:Server startup in 0 ms
